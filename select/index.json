@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Coolie High",
+  "base_artist": "Camp Lo",
+  "createdAt": "2026-03-17T20:50:43.743812Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Coolie High",
+      "artist": "Camp Lo",
+      "has_synced": true,
+      "path": "select/01_Coolie_High_Camp_Lo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Coolie High (Official HD Video)",
+      "artist": "Camp Lo",
+      "has_synced": false,
+      "path": "select/02_Coolie_High_(Official_HD_Video)_Camp_Lo.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Coolie High",
+      "artist": "Camp Lo",
+      "has_synced": true,
+      "path": "select/03_Coolie_High_Camp_Lo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Coolie High (radio edit)",
+      "artist": "Camp Lo",
+      "has_synced": false,
+      "path": "select/04_Coolie_High_(radio_edit)_Camp_Lo.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Coolie High",
+      "artist": "Camp Lo",
+      "has_synced": false,
+      "path": "select/05_Coolie_High_Camp_Lo.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Coolie High",
+      "artist": "Camp Lo/Camp Lo",
+      "has_synced": true,
+      "path": "select/06_Coolie_High_Camp_Lo_Camp_Lo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Coolie High (Album, Single)",
+      "artist": "Camp Lo",
+      "has_synced": true,
+      "path": "select/07_Coolie_High_(Album,_Single)_Camp_Lo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Coolie High (Album Version)",
+      "artist": "Camp Lo",
+      "has_synced": false,
+      "path": "select/08_Coolie_High_(Album_Version)_Camp_Lo.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Coolie High",
+      "artist": "Camp Lo",
+      "has_synced": false,
+      "path": "select/pl_01_Coolie_High_Camp_Lo.txt"
+    }
+  ]
+}
